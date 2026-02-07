@@ -8,6 +8,8 @@
 
 This project demonstrates the power of **AutoML (Automated Machine Learning)** using AutoGluon to predict depression from health and lifestyle factors. The notebook automatically trains, tunes, and evaluates **87 different machine learning models** with minimal code, showcasing how AutoGluon simplifies the ML workflow while achieving state-of-the-art performance.
 
+See and run this notebook on [Kaggle](https://www.kaggle.com/code/harshg97/automl-with-autogluon-87-models/notebook).
+
 ### Key Highlights
 
 - 🤖 **87 models trained automatically** including Random Forests, XGBoost, LightGBM, CatBoost, Neural Networks, and ensemble methods
