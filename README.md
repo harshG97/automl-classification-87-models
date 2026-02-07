@@ -27,7 +27,7 @@ This project demonstrates the power of **AutoML (Automated Machine Learning)** u
 ├── README.md                                        # This file
 └── data/                                           # Dataset directory (create manually)
 │    ├── train.csv                                   # Competition training data
-│   ├── test.csv                                    # Competition test data
+│    ├── test.csv                                    # Competition test data
 │    └── final_depression_dataset_1.csv              # Original dataset
 │
 └── outputs/                                # Model outputs
