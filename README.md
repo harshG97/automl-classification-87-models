@@ -1,4 +1,4 @@
-# AutoML with AutoGluon: Depression Prediction using 87 Models
+# AutoML with AutoGluon: Comparing 87 Models for Classification
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![AutoGluon](https://img.shields.io/badge/AutoGluon-1.1.1-orange.svg)](https://auto.gluon.ai/)
